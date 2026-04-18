@@ -1,0 +1,6 @@
+beach_system:
+  default_temperature: 30
+  wave_unit: "meters"
+  sand_types:
+    - fine
+    - coarse
